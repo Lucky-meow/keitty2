@@ -99,8 +99,7 @@ chatLangCallback({
     "S_CONFIRMATION": "We will call you as soon as we can at"
   },
   "S_REQUEST_TRANSCRIPT": {
-    "S_ERROR": "
-Une erreur s'est produite, veuillez réessayer.",
+    "S_ERROR": "Une erreur s'est produite, veuillez réessayer.",
     "S_SENT": "La transcription du chat sera envoyée à <b></b> une fois l'interaction terminée.",
     "S_REQUEST": "Entrez une adresse email:",
     "S_ENTER_EMAIL": "Adresse e-mail..."
