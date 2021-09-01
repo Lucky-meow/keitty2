@@ -57,12 +57,12 @@ chatLangCallback({
     "S_TALK_TO_LIVE_AGENT": "Talk to Live Agent"
   },
   "S_ERROR_PAGE": {
-    "S_START_OVER": "Start Over",
+    "S_START_OVER": "Start All Over Again",
     "S_SEND_EMAIL": "Send Email"
   },
   "S_TERMINATE_POPUP": {
-    "S_TERMINATE_BUTTON": "End",
-    "S_TERMINATE_CONFIRM": "Are you sure you want to end the chat?"
+    "S_TERMINATE_BUTTON": "End Chattu",
+    "S_TERMINATE_CONFIRM": "Do you sure you want to end the chattu?"
   },
   "S_ERRORS": {
     "S_CONNECTING": "We are experiencing connection issues.  Please try again later.",
