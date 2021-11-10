@@ -22,7 +22,7 @@ chatLangCallback({
     "S_NAME_LABEL": "Name",
     "S_EMAIL_LABEL": "Email",
     "S_QUESTION_LABEL": "Question",
-    "S_START_BUTTON": "Start Chat",
+    "S_START_BUTTON": "Start Now",
     "S_SUBJECT_LABEL": "Subject",
     "S_CONTENT_LABEL": "Content",
     "S_SEND_EMAIL_BUTTON": "Send Email"
@@ -84,7 +84,7 @@ chatLangCallback({
   "S_CANCEL": "Cancel",
   "S_SAVE": "Save",
   "S_VALIDATE": {
-    "S_REQUIRED": "Required",
+    "S_REQUIRED": "Required Test",
     "S_INVALID_EMAIL": "Invalid email address"
   },
    "S_VIDEO_POPUP": {
