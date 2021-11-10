@@ -84,7 +84,7 @@ chatLangCallback({
   "S_CANCEL": "Cancel",
   "S_SAVE": "Save",
   "S_VALIDATE": {
-    "S_REQUIRED": "Required field",
+    "S_REQUIRED": "Required",
     "S_INVALID_EMAIL": "Invalid email address"
   },
    "S_VIDEO_POPUP": {
